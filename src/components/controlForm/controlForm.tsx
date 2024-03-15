@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Button, Form, FormGroup, Input, Label } from "./controlForm.styled";
+import { Button, Form, FormGroup, Input, Label } from "./ControlForm.styled";
 
 interface FormData {
   username: string;
